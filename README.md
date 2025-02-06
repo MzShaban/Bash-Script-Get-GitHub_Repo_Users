@@ -15,4 +15,4 @@ Once the token is set, execute the script like this:
 
 ./get_collaborators.sh username repository_name
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/gitusers.png?raw=true)
+![alt text](https://github.com/MzShaban/blob/main/Images/gitusers.png?raw=true)
